@@ -1,2 +1,2 @@
 # datashets-java-local-csv
-CSV File Format plugin for Locally-backed Datashets (in Java)
+CSV File Format plugin for local file-backed Datashets (in Java)
